@@ -1,0 +1,5 @@
+D:\temp\job docs\test projects C#\aspose test\HtmlParser\HtmlParser\bin\Debug\HtmlParser.exe
+D:\temp\job docs\test projects C#\aspose test\HtmlParser\HtmlParser\bin\Debug\HtmlParser.pdb
+D:\temp\job docs\test projects C#\aspose test\HtmlParser\HtmlParser\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\temp\job docs\test projects C#\aspose test\HtmlParser\HtmlParser\obj\x86\Debug\HtmlParser.exe
+D:\temp\job docs\test projects C#\aspose test\HtmlParser\HtmlParser\obj\x86\Debug\HtmlParser.pdb
